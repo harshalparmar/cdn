@@ -37,3 +37,8 @@ Uptime is a critical component for anyone with an Internet property. Hardware fa
 Load balancing distributes network traffic evenly across several servers, making it easier to scale rapid boosts in traffic.
 Intelligent failover provides uninterrupted service even if one or more of the CDN servers go offline due to hardware malfunction; the failover can redistribute the traffic to the other operational servers.
 In the event that an entire data center is having technical issues, Anycast routing transfers the traffic to another available data center, ensuring that no users lose access to the website.
+
+
+
+#active links
+https://harshalparmar.github.io/cdn/cdncss/new.css/demo.html
